@@ -1,2 +1,0 @@
-# huntingtonbeachmobileautoglass
-My awesome repository
